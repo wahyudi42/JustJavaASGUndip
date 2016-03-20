@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         String price = "$"+ (quantity * 5);
         price = price + "\nThank You!";
         displayPrice(price);
+        //Coba commit
     }
 
     /**
